@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mrcp name="i2c_LPS25H">
+  <version>1.0</version>
+  <timestamp>2022-07-28T15:33:29</timestamp>
+  <files>
+    <file name="main.rb">
+      <type>2</type>
+      <editing>true</editing>
+      <mark/>
+    </file>
+  </files>
+</mrcp>
